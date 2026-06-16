@@ -22,7 +22,7 @@ export default function HeroSection() {
     <section className="relative min-h-screen flex items-center bg-near-black overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="/assets/hero-athletic-industrial.jpg"
+          src="/assets/hero-athletic-industrial.avif"
           alt="Football jerseys manufacturing"
           className="w-full h-full object-cover"
         />
