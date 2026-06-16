@@ -12,7 +12,7 @@ export default function AboutHeroBanner() {
   return (
     <section className="relative min-h-[50vh] flex items-center bg-deep-charcoal overflow-hidden">
       <div className="absolute inset-0">
-        <img src="/assets/factory-about-hero.jpg" alt="Our factory" className="w-full h-full object-cover" />
+        <img src="/assets/factory-about-hero.avif" alt="Our factory" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-[rgba(10,10,10,0.6)]" />
       </div>
       <div className="container-lumo relative z-10 pt-[72px]">
