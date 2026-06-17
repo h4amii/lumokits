@@ -32,7 +32,7 @@ export default function HeroSection() {
       <div className="container-lumo relative z-10 pt-[72px]">
         <div className="max-w-2xl">
           <p ref={labelRef} className="text-label text-brand-yellow mb-5 opacity-0">
-            CUSTOM FOOTBALL JERSEYS FOR CLUBS
+            CUSTOM SPORTS JERSEYS FOR CLUBS
           </p>
           <h1
             ref={headingRef}
