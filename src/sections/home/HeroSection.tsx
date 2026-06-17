@@ -23,7 +23,7 @@ export default function HeroSection() {
       <div className="absolute inset-0">
         <img
           src="/assets/hero-athletic-industrial.avif"
-          alt="Football jerseys manufacturing"
+          alt="Sports jerseys manufacturing"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 gradient-hero" />
@@ -32,7 +32,7 @@ export default function HeroSection() {
       <div className="container-lumo relative z-10 pt-[72px]">
         <div className="max-w-2xl">
           <p ref={labelRef} className="text-label text-brand-yellow mb-5 opacity-0">
-            CUSTOM SPORTS JERSEYS FOR CLUBS
+            CUSTOM APPAREAL FOR CLUBS & BRANDS
           </p>
           <h1
             ref={headingRef}
@@ -41,8 +41,8 @@ export default function HeroSection() {
             Quality Kits Made for Your Club. Shipped Worldwide.
           </h1>
           <p ref={subtitleRef} className="text-cool-gray text-lg leading-relaxed max-w-xl mb-8 opacity-0">
-            We make custom football jerseys and full team kits for clubs around the world. 
-            Good quality, fair prices, and reliable delivery.
+            We make custom appareal, jerseys and gears for clubs & brands around the world. 
+            Good quality, fair prices, and on-time delivery.
           </p>
           <div ref={ctaRef} className="flex flex-wrap gap-4 opacity-0">
             <Link
