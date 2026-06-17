@@ -40,10 +40,10 @@ export default function FactorySection() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
           <div className="rounded-xl overflow-hidden">
-            <img src="/assets/process-printing.jpg" alt="Production floor" className="w-full h-full object-cover aspect-video" loading="lazy" />
+            <img src="/assets/process-printing.avif" alt="Production floor" className="w-full h-full object-cover aspect-video" loading="lazy" />
           </div>
           <div className="rounded-xl overflow-hidden">
-            <img src="/assets/factory-overview-3.jpg" alt="Cutting room" className="w-full h-full object-cover aspect-video" loading="lazy" />
+            <img src="/assets/factory-overview-3.avif" alt="Cutting room" className="w-full h-full object-cover aspect-video" loading="lazy" />
           </div>
         </div>
 
