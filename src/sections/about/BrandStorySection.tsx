@@ -42,7 +42,7 @@ export default function BrandStorySection() {
 
           <div className="relative">
             <div ref={imageRef} className="rounded-xl overflow-hidden shadow-lg">
-              <img src="/assets/factory-overview-2.jpg" alt="Our team at work" className="w-full h-auto object-cover" loading="lazy" />
+              <img src="/assets/factory-overview-2.avif" alt="Our team at work" className="w-full h-auto object-cover" loading="lazy" />
             </div>
             <div className="absolute -bottom-5 -right-5 bg-near-black rounded-lg p-5 shadow-xl">
               <p className="font-mono font-bold text-brand-yellow text-3xl">1,100</p>
