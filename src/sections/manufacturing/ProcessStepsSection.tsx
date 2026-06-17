@@ -16,7 +16,7 @@ const steps = [
     step: '02', title: 'We Pick the Right Fabric',
     description: 'We choose the best fabric for your kit. Breathable, comfortable, and built to last through every match and training session.',
     points: ['Lightweight breathable mesh', 'Strong stitching that lasts', 'Comfortable fit for players'],
-    image: '/assets/process-cutting.jpg',
+    image: '/assets/process-cutting.avif',
   },
   {
     step: '03', title: 'Cut and Stitch',
