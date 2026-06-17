@@ -26,7 +26,7 @@ export default function BrandStorySection() {
               <p>
                 LumoKits was founded in 2023 in Sialkot, Pakistan — a city known worldwide 
                 for making sports goods. We started small, focusing on one thing: making great 
-                custom football jerseys for clubs overseas.
+                custom sports jerseys for clubs overseas.
               </p>
               <p>
                 In just 3 years, we have grown to a team of over 100 people working out of a 
