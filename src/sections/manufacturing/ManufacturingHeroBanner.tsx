@@ -12,7 +12,7 @@ export default function ManufacturingHeroBanner() {
   return (
     <section className="relative min-h-[50vh] flex items-center bg-near-black overflow-hidden">
       <div className="absolute inset-0">
-        <img src="/assets/process-stitching.jpg" alt="Manufacturing" className="w-full h-full object-cover" />
+        <img src="/assets/process-stitching.avif" alt="Manufacturing" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-[rgba(10,10,10,0.7)]" />
       </div>
       <div className="container-lumo relative z-10 pt-[72px]">
