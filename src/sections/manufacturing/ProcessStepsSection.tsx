@@ -10,7 +10,7 @@ const steps = [
     step: '01', title: 'You Share Your Design',
     description: 'Send us your jersey design, logo, colors, and player details. Not got a design yet? No problem. We will help you create one.',
     points: ['Upload your design or logo', 'Tell us your colors and style', 'Share player names and numbers'],
-    image: '/assets/process-fabric-sourcing.jpg',
+    image: '/assets/process-fabric-sourcing.avif',
   },
   {
     step: '02', title: 'We Pick the Right Fabric',
@@ -22,25 +22,25 @@ const steps = [
     step: '03', title: 'Cut and Stitch',
     description: 'Our skilled workers cut each piece carefully and stitch it together. Every seam is checked to make sure it is strong and neat.',
     points: ['Precision cutting for clean edges', 'Double-stitched seams', 'Quality check at every step'],
-    image: '/assets/process-stitching.jpg',
+    image: '/assets/process-stitching.avif',
   },
   {
     step: '04', title: 'Print and Add Details',
     description: 'We print your club logo, sponsor names, player numbers, and any other details. Sharp colors that do not fade after washing.',
     points: ['Vibrant long-lasting colors', 'Clear logos and numbers', 'Sponsor names and badges'],
-    image: '/assets/process-printing.jpg',
+    image: '/assets/process-printing.avif',
   },
   {
     step: '05', title: 'Quality Check',
     description: 'Every jersey is inspected before it leaves. We check the stitching, printing, sizing, and overall look. If it is not right, we fix it.',
     points: ['Size and fit check', 'Print quality inspection', 'Final approval before packing'],
-    image: '/assets/process-qc.jpg',
+    image: '/assets/process-qc.avif',
   },
   {
     step: '06', title: 'Packed and Shipped',
     description: 'Your kits are carefully packed and labeled. We handle the shipping paperwork and send them to your club address anywhere in the world.',
     points: ['Individual jersey bagging', 'Strong export cartons', 'Tracking number provided'],
-    image: '/assets/process-packaging.jpg',
+    image: '/assets/process-packaging.avif',
   },
 ]
 
