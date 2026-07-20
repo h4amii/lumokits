@@ -12,7 +12,7 @@ export default function ContactHeroBanner() {
   return (
     <section className="relative min-h-[40vh] flex items-center bg-deep-charcoal">
       <div className="absolute inset-0">
-        <img src="/assets/cat-jerseys.avif" alt="Custom jerseys" className="w-full h-full object-cover" />
+        <img src="/assets/contact-hero.avif" alt="Custom jerseys" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-[rgba(10,10,10,0.7)]" />
       </div>
       <div className="container-lumo pt-[72px]">
