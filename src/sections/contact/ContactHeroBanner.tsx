@@ -18,7 +18,7 @@ export default function ContactHeroBanner() {
       <div className="container-lumo pt-[72px]">
         <p className="text-label text-brand-yellow mb-4">CONTACT US</p>
         <h1 ref={headingRef} className="font-display font-bold text-white text-[clamp(2.5rem,5vw,4rem)] leading-[1.1] tracking-tight max-w-3xl opacity-0">
-          Let's Talk About Your Kit
+          Let's Talk About Your Kit.
         </h1>
         <p className="text-cool-gray text-sm mt-4">Home / Contact</p>
       </div>
