@@ -20,7 +20,6 @@ export default function WhyHeroBanner() {
         <h1 ref={headingRef} className="font-display font-bold text-white text-[clamp(2.5rem,5vw,4rem)] leading-[1.1] tracking-tight max-w-3xl opacity-0">
           Clubs Around the World Choose LumoKits
         </h1>
-        <p className="text-cool-gray text-sm mt-4">Home / Why Lumo</p>
       </div>
     </section>
   )
