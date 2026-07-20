@@ -12,7 +12,7 @@ export default function WhyHeroBanner() {
   return (
     <section className="relative min-h-[50vh] flex items-center bg-deep-charcoal overflow-hidden">
       <div className="absolute inset-0">
-        <img src="/assets/cat-jerseys.jpg" alt="Custom jerseys" className="w-full h-full object-cover" />
+        <img src="/assets/cat-jerseys.avif" alt="Custom jerseys" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-[rgba(10,10,10,0.7)]" />
       </div>
       <div className="container-lumo relative z-10 pt-[72px]">
