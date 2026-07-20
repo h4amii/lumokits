@@ -18,7 +18,7 @@ export default function AboutHeroBanner() {
       <div className="container-lumo relative z-10 pt-[72px]">
         <p className="text-label text-brand-yellow mb-4">ABOUT LUMO</p>
         <h1 ref={headingRef} className="font-display font-bold text-white text-[clamp(2.5rem,5vw,4rem)] leading-[1.1] tracking-tight max-w-3xl opacity-0">
-          We Make Kits for Clubs That Play to Win
+          We Make Kits for Clubs That Play to Win.
         </h1>
       </div>
     </section>
