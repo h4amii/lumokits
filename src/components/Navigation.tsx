@@ -50,7 +50,7 @@ export default function Navigation() {
           {/* Logo */}
           <Link to="/" className="flex items-center">
             <img
-              src="/assets/lumo-logo.png"
+              src="/assets/lumo-logo.avif"
               alt="LumoKits"
               className="h-8 w-auto rounded-md"
             />
