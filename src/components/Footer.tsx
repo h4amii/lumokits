@@ -17,7 +17,7 @@ export default function Footer() {
           {/* Col 1 - Brand */}
           <div className="sm:col-span-2 lg:col-span-1">
             <img
-              src="/assets/lumo-logo.png"
+              src="/assets/lumo-logo.avif"
               alt="LumoKits"
               className="h-10 w-auto mb-4 rounded-md"
             />
