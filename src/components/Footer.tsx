@@ -19,7 +19,7 @@ export default function Footer() {
             <img
               src="/assets/lumo-logo.avif"
               alt="LumoKits"
-              className="h-10 w-auto mb-4 rounded-md"
+              className="h-8 w-auto rounded-md"
             />
             <p className="text-cool-gray text-sm mb-6">
               Custom football jerseys for clubs. Made in Pakistan. Shipped worldwide.
