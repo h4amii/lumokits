@@ -16,30 +16,6 @@
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx">
-  const follower = document.querySelector('.mouse-follower');
-
-let followerMouseX = 0;
-let followerMouseY = 0;
-let currentX = 0;
-let currentY = 0;
-
-document.addEventListener('mousemove', (e) => {
-    followerMouseX = e.clientX;
-    followerMouseY = e.clientY;
-});
-
-function animateFollower() {
-    currentX += (followerMouseX - currentX) * 0.06;
-    currentY += (followerMouseY - currentY) * 0.06;
-
-    follower.style.left = currentX + 'px';
-    follower.style.top = currentY + 'px';
-
-    requestAnimationFrame(animateFollower);
-}
-
-animateFollower();
-    </script>
+    <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
